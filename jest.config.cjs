@@ -1,4 +1,4 @@
 module.exports = {
 	testEnvironment: "node",
-	projects: ["<rootDir>/packages/*"],
+	preset: "ts-jest",
 };
